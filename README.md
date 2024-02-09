@@ -1,10 +1,10 @@
-# ¡Hola! 👋
+# Ingeniero en Computación
 
-¡Bienvenido a mi perfil de GitHub! Soy Luis Julian Vilchis Medina, un apasionado por la programacion y el desarrollo de software. En este repositorio, encontrarás información sobre mí y algunos de mis proyectos.
+¡Bienvenido a mi perfil de GitHub! Soy Luis Julian Vilchis Medina egresado de la UAEM, un apasionado por la programacion y el desarrollo de software. En este repositorio, encontrarás información sobre mí y algunos de mis proyectos.
 
 ## Sobre mí
 
-Soy un desarrollador de software con experiencia en el desarrollo backend y diversos lenguajes de programacion. 
+Soy un desarrollador de software con experiencia en el desarrollo backend y diversos lenguajes de programacion. Recientemente egresado de la Universidad Autónoma del Estado de México.
 
 ## Habilidades
 
