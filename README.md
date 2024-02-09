@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-Soy un desarrollador de software con experiencia en el desarrollo backend y diversos lenguajes de programacion. Recientemente egresado de la Universidad Autónoma del Estado de México.
+Soy un desarrollador de software con experiencia en el desarrollo backend, diversos lenguajes de programacion y experiencia en la administración y operación de sistemas basados en Linux. Recientemente egresado de la Universidad Autónoma del Estado de México.
 
 ## Habilidades
 
